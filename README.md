@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hi there 👋, I am Andrei.
 
-<!--
-**tarurar/tarurar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on projects based on .NET (C#) and Python. 
+Currently I am building a trading platform at Lykke Business with lots of microservices.
+I am interested in learning functional programming. 
+---
+I like to do sports (road running and cycling). I used to do triathlon.
+---
+I have a family, I love my wife and children.
+---
+Twitter/X: [@atarutin](http://x.com/atarutin)
