@@ -1,5 +1,3 @@
-![Banner Image](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile)
-
 # Hi there, I’m Andrei! 👋
 
 I’m an experienced software developer with a passion for:
