@@ -11,7 +11,7 @@ I love solving challenging problems, sharing knowledge with the community, and c
 
 I keen on learning functional programing. 
 
-I like to do sports, specifically running 🏃 and cycling 🚴). I used to do triathlons 🏅, but now I'm focusing on running. Crossed the Bosphorus in 2021.
+I like to do sports, specifically running 🏃 and cycling 🚴. I used to do triathlons 🏅, but now I'm focusing on running. Crossed the Bosphorus in 2021.
 
 I have a family, love my wife 👧 and children 🧒🧒🧒.
 
