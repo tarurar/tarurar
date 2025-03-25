@@ -36,7 +36,6 @@ I have a family, love my wife 👧 and children 🧒🧒🧒.
 Here are some of my favorite projects I’m working on or have contributed to:
 
 - [**Fink**](https://github.com/tarurar/fink) – Tooling for developers to avoid runtime issues with dependecies versioning.
-- [**Nova Release Manager**](https://github.com/tarurar/NovaReleaseManager) – Tool to automate release process at my current job.
 - [**Open Source Contributions**](https://github.com/dotnet/roslyn-analyzers) – Contributions to other open source repositories, bug fixes, documentation improvements, and more.
 
 I am always open to **new proposals** or **project ideas**. If you have an interesting problem to solve, drop me a message or open an issue in one of my repos.
